@@ -51,11 +51,4 @@ src="./icones RS/youtube.png"
 width= 8.5%/>
 </a>
 
-<a href="https://www.threads.net/@kduchevreuil" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/threads.png"
-width= 8.5%/>
-</a>
-
 </p>
