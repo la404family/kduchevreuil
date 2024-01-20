@@ -30,13 +30,6 @@ src="./icones RS/instagram.png"
 width= 8.5%/>
 </a>
 
-<a href="https://www.snapchat.com/add/kduchevreuil" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/snapchat.png"
-width= 8.5%/>
-</a>
-
 <a href="https://www.tiktok.com/@kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
