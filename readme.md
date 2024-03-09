@@ -1,4 +1,4 @@
-### Bienvenue à tous... Ajoutez moi sur vos réseaux !
+### Bienvenue à tous... 
 
 <p align="center">
 
