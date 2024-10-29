@@ -41,7 +41,7 @@ width= 8%/>
 <img 
 class="IMGlink"
 src="./icones RS/tiktok.png"
-width= 8.5%/>
+width= 8%/>
 </a>
 
 <a href="https://www.reddit.com/user/kduchevreuil" target="_blank">
