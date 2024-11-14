@@ -2,13 +2,6 @@
 
 <p align="center">
 
-<a href="https://kduchevreuil.blogspot.com/" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/blogger.png"
-width= 7%/>
-</a>
-
 <a href="https://www.facebook.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
