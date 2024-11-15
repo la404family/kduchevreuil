@@ -16,13 +16,6 @@ src="./icones RS/github.png"
 width= 7%/>
 </a>
 
-<a href="https://www.linkedin.com/in/kevin-du-chevreuil-b7390529a/" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/linkedin.png"
-width= 7%/>
-</a>
-
 <a href="https://www.instagram.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
