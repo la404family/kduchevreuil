@@ -9,10 +9,10 @@ src="./icones RS/facebook.png"
 width= 7%/>
 </a>
 
-<a href="https://github.com/kduchevreuil" target="_blank">
+<a href="[https://github.com/kduchevreuil](https://www.reddit.com/user/kduchevreuil/)" target="_blank">
 <img 
 class="IMGlink"
-src="./icones RS/github.png"
+src="./icones RS/reddit.png"
 width= 7%/>
 </a>
 
