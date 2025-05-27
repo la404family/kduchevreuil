@@ -1,2 +1,2 @@
 # 👋 Hello World !
-Bienvenue sur le compte de la 404 Family — une famille de passionnés ! 🚀💻
+Bienvenue sur le compte collaboratif de la 404 Family — une famille de passionnés ! 🚀💻
